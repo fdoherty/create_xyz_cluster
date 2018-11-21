@@ -1,0 +1,3 @@
+[console_scripts]
+create_xyz_cluster = create_xyz_cluster.create_xyz_cluster:main
+

@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: create-xyz-cluster
+Version: 1.0.0
+Summary: A simple python script to build a xyz coordinate list of atoms from a genetic algorithm output
+Home-page: https://github.com/fdoherty/create_xyz_cluster
+Author: Frank Doherty
+Author-email: fdoherty@umich.edu
+License: MIT
+Description: create_xyz_cluster
+        ==================
+        
+        
+        A simple python script to build a xyz coordinate list of atoms from a genetic algorithm output
+        
+        
+        Authors
+        -------
+        
+        `create_xyz_cluster` was written by `Frank Doherty <fdoherty@umich.edu>`_.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
